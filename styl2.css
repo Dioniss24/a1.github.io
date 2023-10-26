@@ -1,0 +1,34 @@
+header {
+	font-family: Garamond;
+	background-color: #3cb371;
+	padding: 10px;
+	font-size: 200%;
+	text-align: center;
+	color: white;
+	height: 50px;
+}
+footer {
+	font-family: Garamond;
+	background-color: #3cb371;
+	padding: 10px;
+	font-size: 130%;
+	text-align: center;
+	color: white;
+}
+#sekcja {
+	background-color: #faebd7;
+	width: 55%;
+	height: 450px;
+	float: left;
+}
+#INFORMACJE {
+	background-color: #faebd7;
+	width: 45%;
+	height: 450px;
+	float: right;
+}
+img {
+	padding: 3px;
+	margin: 15px;
+	border: 2px dashed green;
+}
